@@ -2,7 +2,7 @@
 /*
 Plugin Name: Extra Page
 Plugin URI: 
-Description:
+Description: WPMU Only. Extra Page allow users to create a page to write some news/updates/announcement in wordpress mu without any script modification.
 Author: Clement Yuan
 Version: 1.0.0
 Author URI:
